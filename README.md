@@ -1,2 +1,2 @@
-# web-practicles
+# web-practicals
 activities
